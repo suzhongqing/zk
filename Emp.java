@@ -1,7 +1,7 @@
 
 public class Emp{
 	
-	private String empNo;
+	private String empId;
 	private String empName;
 	private Integer salary;
 	

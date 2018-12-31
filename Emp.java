@@ -3,6 +3,6 @@ public class Emp{
 	
 	private String empNo;
 	private String empName;
-	private Integer age;
+	private Integer salary;
 	
 }
